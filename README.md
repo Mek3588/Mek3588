@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mek3588
 - 👀 I’m interested in code
-- 🌱 I’m currently learning in university
+- 🌱 I’m currently Gratuated from university
 - 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me ...
 
