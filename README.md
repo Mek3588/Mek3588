@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mek3588
+- 👋 Hi, I’m @Mekbib
 - 👀 I’m interested in code
 - 🌱 I’m currently Gratuated from university
 - 💞️ I’m looking to collaborate on any type of projects
