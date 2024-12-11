@@ -1,6 +1,5 @@
 [![Header](https://drive.google.com/uc?id=1KN7NNz9zuPSMe84nyhA8pPSohmTNC_rh)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![My Website](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
 **Languages I have used**
 
