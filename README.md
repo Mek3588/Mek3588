@@ -1,10 +1,3 @@
----
-title: Mekbib Zewde
-date: 2020-29-08
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'Mek3588'
----
 
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
