@@ -26,8 +26,8 @@
 **Web/Full Stack projects**
 
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
+[![Ethiopost CRM](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
+[![Insurance System](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
 [![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
 
 **Other projects**
